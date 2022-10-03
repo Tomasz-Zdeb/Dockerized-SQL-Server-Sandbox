@@ -1,4 +1,4 @@
-# Contenerized SQL training project
+# Contenerized SQL Server sandbox
 
 ## Running SQL Server
 
