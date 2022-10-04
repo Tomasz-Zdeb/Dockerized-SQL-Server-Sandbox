@@ -8,6 +8,8 @@ Use connection script `run_sql_server_image.sh` to create SQL Server Developer c
 
 To establish connection between SQL Server Management Studio and SQL docker container containers name is used, probably due to internal docker DNS. Therefore it is recommended to give provide a name for container to maintain connectivity with SSMS.
 
+> ip_address\container_name,port
+
 ## References
 
 [Microsoft SQL Server Dockerhub page](https://hub.docker.com/_/microsoft-mssql-server?tab=description)  
